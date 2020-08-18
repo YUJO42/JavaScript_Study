@@ -103,8 +103,3 @@ USER1 equal USER2 ? false
 - 새로 만든 ```copyObject``` 함수를 통해 간단하게 객체를 복사하고 내용을 수정하는데 성공했습니다. 다만 협업하는 모든 사람들과 객체 내부의 변경이 필요할 때 ```copyObject```함수를 사용하기로 협의하고 그 규칙을 준수해야만 ```user```객체를 불변 객체로 볼 수 있습니다.
 - 하지만 현실적으로는 어려운 일이므로 규칙을 따르지 않고는 프로퍼티 변경이 불가능하도록 ```immer.js```, ```immutable.js```, ```baobab.js```등의 라이브러리를 많이 사용합니다.
 ___
-- 공부하면서 알게 된 내용을 정리한 글입니다.
-- 궁금한 점이 있으시거나 잘못된 내용이 있다면 댓글로 알려주시면 감사하겠습니다.
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40yujo%2FJS%25EB%25B6%2588%25EB%25B3%2580-%25EA%25B0%259D%25EC%25B2%25B4Immutable-Object-%25EB%25A7%258C%25EB%2593%25A4%25EA%25B8%25B0)](https://hits.seeyoufarm.com)
