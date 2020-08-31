@@ -1,5 +1,13 @@
+// let count = 0;
+// const timer = setInterval(() => {
+//   console.log(count);
+//   if (++count > 4) clearInterval(timer);
+// }, 300);
+
 let count = 0;
-const timer = setInterval(() => {
+const callbackFunction = () => {
   console.log(count);
   if (++count > 4) clearInterval(timer);
-}, 300);
+};
+
+const timer = setInterval(callbackFunction, 300);
