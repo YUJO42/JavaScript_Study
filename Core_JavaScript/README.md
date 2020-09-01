@@ -1,5 +1,5 @@
 # 코어 자바스크립트
-## "코어 자바스크립트 - 정재남"
+## 지은이 : 정재남 출판사 : 위키북스
 ### 01. 데이터 타입
 #### [불변 객체](https://github.com/YUJO42/JavaScript_Study/blob/master/Core_JavaScript/01_Data_Type/ImmutableObject.md)
 #### [얕은 복사, 깊은 복사](https://github.com/YUJO42/JavaScript_Study/blob/master/Core_JavaScript/01_Data_Type/shallowCopy_deepCopy.md)
