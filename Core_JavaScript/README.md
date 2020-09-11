@@ -15,4 +15,6 @@
 #### [콜백 함수의 제어권](https://github.com/YUJO42/JavaScript_Study/blob/master/Core_JavaScript/04_callback_function/callback01.md)
 #### [콜백 지옥 탈출하기](https://github.com/YUJO42/JavaScript_Study/blob/master/Core_JavaScript/04_callback_function/callback02.md)
 
+### 05. closure
+#### [클로저의 메모리 ](https://github.com/YUJO42/JavaScript_Study/blob/master/Core_JavaScript/05_Closure/closure01.md)
 ![](https://github.com/YUJO42/JavaScript_Study/blob/master/img/CoreJavaScript.jpg?raw=true)
