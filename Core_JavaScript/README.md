@@ -18,3 +18,6 @@
 ### 05. closure
 #### [클로저의 메모리 ](https://github.com/YUJO42/JavaScript_Study/blob/master/Core_JavaScript/05_Closure/closure01.md)
 ![](https://github.com/YUJO42/JavaScript_Study/blob/master/img/CoreJavaScript.jpg?raw=true)
+
+### 서평
+#### [코어 자바스크립트 - 정재남](https://velog.io/@yujo/%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%95%EC%9E%AC%EB%82%A8)
